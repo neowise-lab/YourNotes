@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Your Notes</string>
+    <string name="add_passcode">Add passcode for secure your informations</string>
+    <string name="enter_passcode">Enter passcode</string>
 </resources>
